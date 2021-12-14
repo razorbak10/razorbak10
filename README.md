@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://media0.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47vht7wado6d7z4le1v8xlfas18bugp1g4y7kcv8ky&rid=giphy.gif&ct=g" alt="Coder GIF" width="250">
+<img src="https://media0.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47vht7wado6d7z4le1v8xlfas18bugp1g4y7kcv8ky&rid=giphy.gif&ct=g" alt="Coder GIF" width="500">
 
 
 

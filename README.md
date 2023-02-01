@@ -1,6 +1,5 @@
 ### Hi there 👋
-<center>
-<img src="https://media0.giphy.com/media/3ov9jPghXAsbvLmcjm/giphy.gif?cid=ecf05e473s7y4056i6796t8nuaig3f31vnsfj3u65o33jpj9&rid=giphy.gif&ct=g" alt="Coder GIF" width="1000">
-  </center>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=razorbak10&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/razorbak10/github-readme-stats#gh-dark-mode-only)
+
   
   
